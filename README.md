@@ -4,9 +4,10 @@ ________________________________________________________________________________
 This repository has the modules and inputs for the SWITCH-GAS which was originally developed to study the efficiency of investment in natural gas network in the USA.
 
 Modules extended by SWITCH-GAS should be solved with SWITCH 2.0, i.e. you need to install SWITCH2.0 first. These modules work with SWITCH2.0.7. Tutorials can be found at https://switch-model.org/. 
-You may easily create a basic module to replace switch_model.timescales and switch_model.financials to make SWITCH-GAS a free-standing model based on Pyomo language.
+You may easily create a basic module to replace switch_model.timescales and switch_model.financials to make SWITCH-GAS a free-standing model based on Pyomo/Python language.
 
-The "inputs" files serve as an example of inputs that can be used to run SWITCH-GAS model. You can update corresponding data inputs to meet your modeling needs.
+The "inputs" files serve as an example of inputs that can be used to run SWITCH-GAS model. Notes that it will take hours to solve the model with current input files. 
+For a test run, you may want to reduce the input scale by either picking just few states or few timeseries. You can update corresponding data inputs to meet your modeling needs.
 
 ______________________________________________________________________________________________________________________________
 The model developed in this paper possesses a structure that is similar to state-of-the-art capacity expansion models used for integration of renewable energy and storage in electricity systems. 
