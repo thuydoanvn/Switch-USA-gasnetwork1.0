@@ -1,0 +1,247 @@
+state_name,GAS_ZONES,gas_storage_type,gas_storage_predet_build_year,gas_storage_predet_cap,gas_storage_removed_cap,gas_storage_total_cap
+Alabama,AL,aquifer,1999,0,0,0
+Alabama,AL,aquifer,2000,0,0,0
+Alabama,AL,aquifer,2001,0,0,0
+Alabama,AL,depleted field,1999,0,0,0
+Alabama,AL,depleted field,2000,0,0,0
+Alabama,AL,depleted field,2001,1720651.85185185,0,1720651.85185185
+Alabama,AL,salt cavern,1999,2480393.75415282,0,2480393.75415282
+Alabama,AL,salt cavern,2000,0,0,2480393.75415282
+Alabama,AL,salt cavern,2001,0,0,2480393.75415282
+Arkansas,AR,aquifer,1999,0,0,0
+Arkansas,AR,aquifer,2000,0,0,0
+Arkansas,AR,aquifer,2001,0,0,0
+Arkansas,AR,depleted field,1999,10223368.6062639,0,10223368.6062639
+Arkansas,AR,depleted field,2000,0,925555.0743166,9297813.5319473
+Arkansas,AR,depleted field,2001,0,0,9297813.5319473
+Arkansas,AR,salt cavern,1999,0,0,0
+Arkansas,AR,salt cavern,2000,0,0,0
+Arkansas,AR,salt cavern,2001,0,0,0
+California,CA,aquifer,1999,0,0,0
+California,CA,aquifer,2000,0,0,0
+California,CA,aquifer,2001,0,0,0
+California,CA,depleted field,1999,247374706.009734,0,247374706.009734
+California,CA,depleted field,2000,0,0,247374706.009734
+California,CA,depleted field,2001,56804016.522014,0,304178722.531748
+California,CA,salt cavern,1999,1464658.8,0,1464658.8
+California,CA,salt cavern,2000,75286.2,0,1539945
+California,CA,salt cavern,2001,0,1539945,0
+Colorado,CO,aquifer,1999,0,0,0
+Colorado,CO,aquifer,2000,0,0,0
+Colorado,CO,aquifer,2001,0,0,0
+Colorado,CO,depleted field,1999,52519997.2253802,0,52519997.2253802
+Colorado,CO,depleted field,2000,330626.193639606,0,52850623.4190198
+Colorado,CO,depleted field,2001,0,0,52850623.4190198
+Colorado,CO,salt cavern,1999,0,0,0
+Colorado,CO,salt cavern,2000,0,0,0
+Colorado,CO,salt cavern,2001,0,0,0
+Illinois,IL,aquifer,1999,214984362.271019,0,214984362.271019
+Illinois,IL,aquifer,2000,0,0,214984362.271019
+Illinois,IL,aquifer,2001,0,0,214984362.271019
+Illinois,IL,depleted field,1999,77440281.8949259,0,77440281.8949259
+Illinois,IL,depleted field,2000,0,0,77440281.8949259
+Illinois,IL,depleted field,2001,0,0,77440281.8949259
+Illinois,IL,salt cavern,1999,0,0,0
+Illinois,IL,salt cavern,2000,0,0,0
+Illinois,IL,salt cavern,2001,0,0,0
+Indiana,IN,aquifer,1999,23821375.2534786,0,23821375.2534786
+Indiana,IN,aquifer,2000,0,0,23821375.2534786
+Indiana,IN,aquifer,2001,0,9382803.6826027,14438571.5708759
+Indiana,IN,depleted field,1999,7964789.64056784,0,7964789.64056784
+Indiana,IN,depleted field,2000,0,0,7964789.64056784
+Indiana,IN,depleted field,2001,15177161.9445556,0,23141951.5851234
+Indiana,IN,salt cavern,1999,0,0,0
+Indiana,IN,salt cavern,2000,0,0,0
+Indiana,IN,salt cavern,2001,0,0,0
+Iowa,IA,aquifer,1999,88777042.8826203,0,88777042.8826203
+Iowa,IA,aquifer,2000,0,0,88777042.8826203
+Iowa,IA,aquifer,2001,0,0,88777042.8826203
+Iowa,IA,depleted field,1999,0,0,0
+Iowa,IA,depleted field,2000,0,0,0
+Iowa,IA,depleted field,2001,0,0,0
+Kansas,KS,aquifer,1999,0,0,0
+Kansas,KS,aquifer,2000,0,0,0
+Kansas,KS,aquifer,2001,0,0,0
+Kansas,KS,depleted field,1999,134073759.469847,0,134073759.469847
+Kansas,KS,depleted field,2000,0,315466.608948991,133758292.860898
+Kansas,KS,depleted field,2001,495733.242633983,0,134254026.103532
+Kansas,KS,salt cavern,1999,2463912,0,2463912
+Kansas,KS,salt cavern,2000,0,0,2463912
+Kansas,KS,salt cavern,2001,0,0,2463912
+Kentucky,KY,aquifer,1999,6372987.76299854,0,6372987.76299854
+Kentucky,KY,aquifer,2000,0,0,6372987.76299854
+Kentucky,KY,aquifer,2001,0,510931.49516253,5862056.26783601
+Kentucky,KY,depleted field,1999,103489060.827055,0,103489060.827055
+Kentucky,KY,depleted field,2000,2952.05079799891,0,103492012.877853
+Kentucky,KY,depleted field,2001,713412.276310995,0,104205425.154164
+Kentucky,KY,salt cavern,1999,0,0,0
+Kentucky,KY,salt cavern,2000,0,0,0
+Kentucky,KY,salt cavern,2001,0,0,0
+Louisiana,LA,aquifer,1999,0,0,0
+Louisiana,LA,aquifer,2000,0,0,0
+Louisiana,LA,aquifer,2001,0,0,0
+Louisiana,LA,depleted field,1999,309494308.737431,0,309494308.737431
+Louisiana,LA,depleted field,2000,0,0,309494308.737431
+Louisiana,LA,depleted field,2001,0,0,309494308.737431
+Louisiana,LA,salt cavern,1999,24727714.102118,0,24727714.102118
+Louisiana,LA,salt cavern,2000,3766940.393009,0,28494654.495127
+Louisiana,LA,salt cavern,2001,5626885.5909624,0,34121540.0860894
+Maryland,MD,depleted field,1999,18384065.625,0,18384065.625
+Maryland,MD,depleted field,2000,0,0,18384065.625
+Maryland,MD,depleted field,2001,0,0,18384065.625
+Maryland,MD,salt cavern,1999,0,0,0
+Maryland,MD,salt cavern,2000,0,0,0
+Maryland,MD,salt cavern,2001,0,0,0
+Michigan,MI,aquifer,1999,10320224,0,10320224
+Michigan,MI,aquifer,2000,0,0,10320224
+Michigan,MI,aquifer,2001,0,10320224,0
+Michigan,MI,depleted field,1999,686908685.957815,0,686908685.957815
+Michigan,MI,depleted field,2000,0,650548.208396077,686258137.749419
+Michigan,MI,depleted field,2001,21254774.6620851,0,707512912.411504
+Michigan,MI,salt cavern,1999,2168644.50704225,0,2168644.50704225
+Michigan,MI,salt cavern,2000,0,0,2168644.50704225
+Michigan,MI,salt cavern,2001,27458.5915492997,0,2196103.09859155
+Minnesota,MN,aquifer,1999,2074000,0,2074000
+Minnesota,MN,aquifer,2000,0,0,2074000
+Minnesota,MN,aquifer,2001,0,0,2074000
+Mississippi,MS,aquifer,1999,0,0,0
+Mississippi,MS,aquifer,2000,0,0,0
+Mississippi,MS,aquifer,2001,0,0,0
+Mississippi,MS,depleted field,1999,49907278.9639415,0,49907278.9639415
+Mississippi,MS,depleted field,2000,0,0,49907278.9639415
+Mississippi,MS,depleted field,2001,182418.535128199,0,50089697.4990697
+Mississippi,MS,salt cavern,1999,23550652.8185305,0,23550652.8185305
+Mississippi,MS,salt cavern,2000,0,0,23550652.8185305
+Mississippi,MS,salt cavern,2001,7795995.4582779,0,31346648.2768084
+Missouri,MO,aquifer,1999,8563701.64362586,0,8563701.64362586
+Missouri,MO,aquifer,2000,165671.32972192,0,8729372.97334778
+Missouri,MO,aquifer,2001,30943.5706753302,0,8760316.54402311
+Montana,MT,aquifer,1999,0,0,0
+Montana,MT,aquifer,2000,0,0,0
+Montana,MT,aquifer,2001,0,0,0
+Montana,MT,depleted field,1999,202217219.589315,0,202217219.589315
+Montana,MT,depleted field,2000,0,0,202217219.589315
+Montana,MT,depleted field,2001,1423374.95417601,0,203640594.543491
+Montana,MT,salt cavern,1999,0,0,0
+Montana,MT,salt cavern,2000,0,0,0
+Montana,MT,salt cavern,2001,0,0,0
+Nebraska,NE,depleted field,1999,14859856.0214634,0,14859856.0214634
+Nebraska,NE,depleted field,2000,0,0,14859856.0214634
+Nebraska,NE,depleted field,2001,0,0,14859856.0214634
+Nebraska,NE,salt cavern,1999,0,0,0
+Nebraska,NE,salt cavern,2000,0,0,0
+Nebraska,NE,salt cavern,2001,0,0,0
+New Mexico,NM,aquifer,1999,3982080,0,3982080
+New Mexico,NM,aquifer,2000,0,0,3982080
+New Mexico,NM,aquifer,2001,0,0,3982080
+New Mexico,NM,depleted field,1999,58819603.6767677,0,58819603.6767677
+New Mexico,NM,depleted field,2000,0,0,58819603.6767677
+New Mexico,NM,depleted field,2001,0,0,58819603.6767677
+New Mexico,NM,salt cavern,1999,0,0,0
+New Mexico,NM,salt cavern,2000,0,0,0
+New Mexico,NM,salt cavern,2001,0,0,0
+New York,NY,aquifer,1999,0,0,0
+New York,NY,aquifer,2000,0,0,0
+New York,NY,aquifer,2001,0,0,0
+New York,NY,depleted field,1999,93246806.746458,0,93246806.746458
+New York,NY,depleted field,2000,196502.347832605,0,93443309.0942906
+New York,NY,depleted field,2001,11274.7248755991,0,93454583.8191662
+New York,NY,salt cavern,1999,931748.931623932,0,931748.931623932
+New York,NY,salt cavern,2000,0,0,931748.931623932
+New York,NY,salt cavern,2001,0,0,931748.931623932
+Ohio,OH,aquifer,1999,0,0,0
+Ohio,OH,aquifer,2000,0,0,0
+Ohio,OH,aquifer,2001,0,0,0
+Ohio,OH,depleted field,1999,262690881.948678,0,262690881.948678
+Ohio,OH,depleted field,2000,0,730478.100047976,261960403.84863
+Ohio,OH,depleted field,2001,992993.667251974,0,262953397.515882
+Ohio,OH,salt cavern,1999,0,0,0
+Ohio,OH,salt cavern,2000,0,0,0
+Ohio,OH,salt cavern,2001,0,0,0
+Oklahoma,OK,aquifer,1999,0,0,0
+Oklahoma,OK,aquifer,2000,0,0,0
+Oklahoma,OK,aquifer,2001,0,0,0
+Oklahoma,OK,depleted field,1999,216053437.327609,0,216053437.327609
+Oklahoma,OK,depleted field,2000,0,9132941.437637,206920495.889972
+Oklahoma,OK,depleted field,2001,2134120.52766901,0,209054616.417641
+Oklahoma,OK,salt cavern,1999,0,0,0
+Oklahoma,OK,salt cavern,2000,0,0,0
+Oklahoma,OK,salt cavern,2001,0,0,0
+Oregon,OR,aquifer,1999,0,0,0
+Oregon,OR,aquifer,2000,0,0,0
+Oregon,OR,aquifer,2001,0,0,0
+Oregon,OR,depleted field,1999,6701791.17931509,0,6701791.17931509
+Oregon,OR,depleted field,2000,2544743.11429337,0,9246534.29360846
+Oregon,OR,depleted field,2001,2908607.35746564,0,12155141.6510741
+Oregon,OR,salt cavern,1999,0,0,0
+Oregon,OR,salt cavern,2000,0,0,0
+Oregon,OR,salt cavern,2001,0,0,0
+Pennsylvania,PA,aquifer,1999,0,0,0
+Pennsylvania,PA,aquifer,2000,0,0,0
+Pennsylvania,PA,aquifer,2001,0,0,0
+Pennsylvania,PA,depleted field,1999,398384308.604455,0,398384308.604455
+Pennsylvania,PA,depleted field,2000,0,188476.343430996,398195832.261024
+Pennsylvania,PA,depleted field,2001,18936055.343703,0,417131887.604727
+Pennsylvania,PA,salt cavern,1999,0,0,0
+Pennsylvania,PA,salt cavern,2000,0,0,0
+Pennsylvania,PA,salt cavern,2001,0,0,0
+Tennessee,TN,aquifer,1999,0,0,0
+Tennessee,TN,aquifer,2000,0,0,0
+Tennessee,TN,aquifer,2001,0,0,0
+Tennessee,TN,depleted field,1999,933300,0,933300
+Tennessee,TN,depleted field,2000,0,0,933300
+Tennessee,TN,depleted field,2001,0,0,933300
+Tennessee,TN,salt cavern,1999,0,0,0
+Tennessee,TN,salt cavern,2000,0,0,0
+Tennessee,TN,salt cavern,2001,0,0,0
+Texas,TX,aquifer,1999,0,0,0
+Texas,TX,aquifer,2000,0,0,0
+Texas,TX,aquifer,2001,0,0,0
+Texas,TX,depleted field,1999,382191327.227263,0,382191327.227263
+Texas,TX,depleted field,2000,11029319.352666,0,393220646.579929
+Texas,TX,depleted field,2001,6600430.49231899,0,399821077.072248
+Texas,TX,salt cavern,1999,72111150.0265953,0,72111150.0265953
+Texas,TX,salt cavern,2000,0,1105805.7630568,71005344.2635385
+Texas,TX,salt cavern,2001,9322223.66152941,0,80327567.9250679
+Utah,UT,aquifer,1999,2860031.07913669,0,2860031.07913669
+Utah,UT,aquifer,2000,0,0,2860031.07913669
+Utah,UT,aquifer,2001,0,0,2860031.07913669
+Utah,UT,depleted field,1999,51198639.7670549,0,51198639.7670549
+Utah,UT,depleted field,2000,3490816.3477537,0,54689456.1148086
+Utah,UT,depleted field,2001,0,0,54689456.1148086
+Utah,UT,salt cavern,1999,0,0,0
+Utah,UT,salt cavern,2000,0,0,0
+Utah,UT,salt cavern,2001,0,0,0
+Virginia,VA,aquifer,1999,0,0,0
+Virginia,VA,aquifer,2000,0,0,0
+Virginia,VA,aquifer,2001,0,0,0
+Virginia,VA,depleted field,1999,1600499.51515152,0,1600499.51515152
+Virginia,VA,depleted field,2000,144740.06060606,0,1745239.57575758
+Virginia,VA,depleted field,2001,0,865360.787878792,879878.787878788
+Virginia,VA,salt cavern,1999,677628.317850222,0,677628.317850222
+Virginia,VA,salt cavern,2000,0,19736.747121851,657891.570728371
+Virginia,VA,salt cavern,2001,0,5263.13256582699,652628.438162544
+Washington,WA,aquifer,1999,20288495.9488273,0,20288495.9488273
+Washington,WA,aquifer,2000,0,0,20288495.9488273
+Washington,WA,aquifer,2001,227905.6247335,0,20516401.5735608
+Washington,WA,depleted field,1999,0,0,0
+Washington,WA,depleted field,2000,0,0,0
+Washington,WA,depleted field,2001,0,0,0
+West Virginia,WV,aquifer,1999,0,0,0
+West Virginia,WV,aquifer,2000,0,0,0
+West Virginia,WV,aquifer,2001,0,0,0
+West Virginia,WV,depleted field,1999,384685323.150799,0,384685323.150799
+West Virginia,WV,depleted field,2000,0,16790.3059519529,384668532.844847
+West Virginia,WV,depleted field,2001,0,123372019.95268,261296512.892167
+West Virginia,WV,salt cavern,1999,0,0,0
+West Virginia,WV,salt cavern,2000,0,0,0
+West Virginia,WV,salt cavern,2001,0,0,0
+Wyoming,WY,aquifer,1999,1292963.4601044,0,1292963.4601044
+Wyoming,WY,aquifer,2000,0,0,1292963.4601044
+Wyoming,WY,aquifer,2001,0,0,1292963.4601044
+Wyoming,WY,depleted field,1999,47396689.781277,0,47396689.781277
+Wyoming,WY,depleted field,2000,0,0,47396689.781277
+Wyoming,WY,depleted field,2001,0,0,47396689.781277
+Wyoming,WY,salt cavern,1999,0,0,0
+Wyoming,WY,salt cavern,2000,0,0,0
+Wyoming,WY,salt cavern,2001,0,0,0

@@ -1,0 +1,575 @@
+GAS_ZONES,gas_storage_type,gas_storage_predet_build_year,gas_storage_removed_cap
+AL,aquifer,1999,0
+AL,aquifer,2000,0
+AL,aquifer,2001,0
+AL,aquifer,2002,0
+AL,aquifer,2007,0
+AL,aquifer,2012,0
+AL,aquifer,2017,0
+AL,depleted field,1999,0
+AL,depleted field,2000,0
+AL,depleted field,2001,0
+AL,depleted field,2002,0
+AL,depleted field,2007,130585.185185179
+AL,depleted field,2012,0
+AL,depleted field,2017,0
+AL,salt cavern,1999,0
+AL,salt cavern,2000,0
+AL,salt cavern,2001,0
+AL,salt cavern,2002,0
+AL,salt cavern,2007,0
+AL,salt cavern,2012,0
+AL,salt cavern,2017,0
+AR,aquifer,1999,0
+AR,aquifer,2000,0
+AR,aquifer,2001,0
+AR,aquifer,2002,0
+AR,aquifer,2007,0
+AR,aquifer,2012,0
+AR,aquifer,2017,0
+AR,depleted field,1999,0
+AR,depleted field,2000,925555.0743166
+AR,depleted field,2001,0
+AR,depleted field,2002,0
+AR,depleted field,2007,2555168
+AR,depleted field,2012,0
+AR,depleted field,2017,3405508
+AR,salt cavern,1999,0
+AR,salt cavern,2000,0
+AR,salt cavern,2001,0
+AR,salt cavern,2002,0
+AR,salt cavern,2007,0
+AR,salt cavern,2012,0
+AR,salt cavern,2017,0
+CA,aquifer,1999,0
+CA,aquifer,2000,0
+CA,aquifer,2001,0
+CA,aquifer,2002,0
+CA,aquifer,2007,0
+CA,aquifer,2012,0
+CA,aquifer,2017,10556660
+CA,depleted field,1999,0
+CA,depleted field,2000,0
+CA,depleted field,2001,0
+CA,depleted field,2002,21392214.951519
+CA,depleted field,2007,18075360.761084
+CA,depleted field,2012,4396880
+CA,depleted field,2017,0
+CA,salt cavern,1999,0
+CA,salt cavern,2000,0
+CA,salt cavern,2001,1539945
+CA,salt cavern,2002,0
+CA,salt cavern,2007,0
+CA,salt cavern,2012,0
+CA,salt cavern,2017,0
+CO,aquifer,1999,0
+CO,aquifer,2000,0
+CO,aquifer,2001,0
+CO,aquifer,2002,0
+CO,aquifer,2007,0
+CO,aquifer,2012,0
+CO,aquifer,2017,0
+CO,depleted field,1999,0
+CO,depleted field,2000,0
+CO,depleted field,2001,0
+CO,depleted field,2002,1575088.4216931
+CO,depleted field,2007,7983425.7206556
+CO,depleted field,2012,0
+CO,depleted field,2017,0
+CO,salt cavern,1999,0
+CO,salt cavern,2000,0
+CO,salt cavern,2001,0
+CO,salt cavern,2002,0
+CO,salt cavern,2007,0
+CO,salt cavern,2012,0
+CO,salt cavern,2017,0
+IA,aquifer,1999,0
+IA,aquifer,2000,0
+IA,aquifer,2001,0
+IA,aquifer,2002,0
+IA,aquifer,2007,0
+IA,aquifer,2012,829600
+IA,aquifer,2017,0
+IA,depleted field,1999,0
+IA,depleted field,2000,0
+IA,depleted field,2001,0
+IA,depleted field,2002,0
+IA,depleted field,2007,0
+IA,depleted field,2012,0
+IA,depleted field,2017,0
+IL,aquifer,1999,0
+IL,aquifer,2000,0
+IL,aquifer,2001,0
+IL,aquifer,2002,6967274.14850301
+IL,aquifer,2007,39884362.062795
+IL,aquifer,2012,724863
+IL,aquifer,2017,42869580
+IL,depleted field,1999,0
+IL,depleted field,2000,0
+IL,depleted field,2001,0
+IL,depleted field,2002,56593013.7512605
+IL,depleted field,2007,0
+IL,depleted field,2012,78397200
+IL,depleted field,2017,1389580
+IL,salt cavern,1999,0
+IL,salt cavern,2000,0
+IL,salt cavern,2001,0
+IL,salt cavern,2002,0
+IL,salt cavern,2007,0
+IL,salt cavern,2012,0
+IL,salt cavern,2017,0
+IN,aquifer,1999,0
+IN,aquifer,2000,0
+IN,aquifer,2001,9382803.6826027
+IN,aquifer,2002,514295.367821196
+IN,aquifer,2007,633607
+IN,aquifer,2012,273768
+IN,aquifer,2017,932263
+IN,depleted field,1999,0
+IN,depleted field,2000,0
+IN,depleted field,2001,0
+IN,depleted field,2002,10068060.5513824
+IN,depleted field,2007,727965.601573801
+IN,depleted field,2012,273768
+IN,depleted field,2017,1214327
+IN,salt cavern,1999,0
+IN,salt cavern,2000,0
+IN,salt cavern,2001,0
+IN,salt cavern,2002,0
+IN,salt cavern,2007,0
+IN,salt cavern,2012,0
+IN,salt cavern,2017,0
+KS,aquifer,1999,0
+KS,aquifer,2000,0
+KS,aquifer,2001,0
+KS,aquifer,2002,0
+KS,aquifer,2007,0
+KS,aquifer,2012,0
+KS,aquifer,2017,0
+KS,depleted field,1999,0
+KS,depleted field,2000,315466.608948991
+KS,depleted field,2001,0
+KS,depleted field,2002,5694622.95811099
+KS,depleted field,2007,6506428.586905
+KS,depleted field,2012,0
+KS,depleted field,2017,0
+KS,salt cavern,1999,0
+KS,salt cavern,2000,0
+KS,salt cavern,2001,0
+KS,salt cavern,2002,1719947.46
+KS,salt cavern,2007,355773.96
+KS,salt cavern,2012,388875
+KS,salt cavern,2017,0
+KY,aquifer,1999,0
+KY,aquifer,2000,0
+KY,aquifer,2001,510931.49516253
+KY,aquifer,2002,0
+KY,aquifer,2007,0
+KY,aquifer,2012,2084370
+KY,aquifer,2017,0
+KY,depleted field,1999,0
+KY,depleted field,2000,0
+KY,depleted field,2001,0
+KY,depleted field,2002,1480453.47546101
+KY,depleted field,2007,5613322.653877
+KY,depleted field,2012,30073
+KY,depleted field,2017,4755682
+KY,salt cavern,1999,0
+KY,salt cavern,2000,0
+KY,salt cavern,2001,0
+KY,salt cavern,2002,0
+KY,salt cavern,2007,0
+KY,salt cavern,2012,0
+KY,salt cavern,2017,0
+LA,aquifer,1999,0
+LA,aquifer,2000,0
+LA,aquifer,2001,0
+LA,aquifer,2002,0
+LA,aquifer,2007,0
+LA,aquifer,2012,0
+LA,aquifer,2017,0
+LA,depleted field,1999,0
+LA,depleted field,2000,0
+LA,depleted field,2001,0
+LA,depleted field,2002,0
+LA,depleted field,2007,14422180.737431
+LA,depleted field,2012,77255463
+LA,depleted field,2017,0
+LA,salt cavern,1999,0
+LA,salt cavern,2000,0
+LA,salt cavern,2001,0
+LA,salt cavern,2002,0
+LA,salt cavern,2007,5204170.7732458
+LA,salt cavern,2012,51585565
+LA,salt cavern,2017,10774430
+MD,depleted field,1999,0
+MD,depleted field,2000,0
+MD,depleted field,2001,0
+MD,depleted field,2002,0
+MD,depleted field,2007,1037000
+MD,depleted field,2012,0
+MD,depleted field,2017,0
+MD,salt cavern,1999,0
+MD,salt cavern,2000,0
+MD,salt cavern,2001,0
+MD,salt cavern,2002,0
+MD,salt cavern,2007,0
+MD,salt cavern,2012,0
+MD,salt cavern,2017,0
+MI,aquifer,1999,0
+MI,aquifer,2000,0
+MI,aquifer,2001,10320224
+MI,aquifer,2002,0
+MI,aquifer,2007,0
+MI,aquifer,2012,0
+MI,aquifer,2017,0
+MI,depleted field,1999,0
+MI,depleted field,2000,650548.208396077
+MI,depleted field,2001,0
+MI,depleted field,2002,40916964.9117631
+MI,depleted field,2007,14900916.687561
+MI,depleted field,2012,0
+MI,depleted field,2017,1977559
+MI,salt cavern,1999,0
+MI,salt cavern,2000,0
+MI,salt cavern,2001,0
+MI,salt cavern,2002,14605.63380282
+MI,salt cavern,2007,20301.83098592
+MI,salt cavern,2012,0
+MI,salt cavern,2017,0
+MN,aquifer,1999,0
+MN,aquifer,2000,0
+MN,aquifer,2001,0
+MN,aquifer,2002,0
+MN,aquifer,2007,0
+MN,aquifer,2012,0
+MN,aquifer,2017,0
+MO,aquifer,1999,0
+MO,aquifer,2000,0
+MO,aquifer,2001,0
+MO,aquifer,2002,25740.6694113389
+MO,aquifer,2007,8540732
+MO,aquifer,2012,0
+MO,aquifer,2017,2430728
+MS,aquifer,1999,0
+MS,aquifer,2000,0
+MS,aquifer,2001,0
+MS,aquifer,2002,0
+MS,aquifer,2007,0
+MS,aquifer,2012,0
+MS,aquifer,2017,0
+MS,depleted field,1999,0
+MS,depleted field,2000,0
+MS,depleted field,2001,0
+MS,depleted field,2002,0
+MS,depleted field,2007,6251516.5160672
+MS,depleted field,2012,1702754
+MS,depleted field,2017,725900
+MS,salt cavern,1999,0
+MS,salt cavern,2000,0
+MS,salt cavern,2001,0
+MS,salt cavern,2002,820078.753014993
+MS,salt cavern,2007,0
+MS,salt cavern,2012,0
+MS,salt cavern,2017,2092666
+MT,aquifer,1999,0
+MT,aquifer,2000,0
+MT,aquifer,2001,0
+MT,aquifer,2002,0
+MT,aquifer,2007,0
+MT,aquifer,2012,0
+MT,aquifer,2017,0
+MT,depleted field,1999,0
+MT,depleted field,2000,0
+MT,depleted field,2001,0
+MT,depleted field,2002,0
+MT,depleted field,2007,422703.228583992
+MT,depleted field,2012,0
+MT,depleted field,2017,24888
+MT,salt cavern,1999,0
+MT,salt cavern,2000,0
+MT,salt cavern,2001,0
+MT,salt cavern,2002,0
+MT,salt cavern,2007,0
+MT,salt cavern,2012,0
+MT,salt cavern,2017,0
+NE,depleted field,1999,0
+NE,depleted field,2000,0
+NE,depleted field,2001,0
+NE,depleted field,2002,0
+NE,depleted field,2007,1739071.5253659
+NE,depleted field,2012,2246142
+NE,depleted field,2017,0
+NE,salt cavern,1999,0
+NE,salt cavern,2000,0
+NE,salt cavern,2001,0
+NE,salt cavern,2002,0
+NE,salt cavern,2007,0
+NE,salt cavern,2012,0
+NE,salt cavern,2017,0
+NM,aquifer,1999,0
+NM,aquifer,2000,0
+NM,aquifer,2001,0
+NM,aquifer,2002,2579392.32
+NM,aquifer,2007,0
+NM,aquifer,2012,1402687.68
+NM,aquifer,2017,0
+NM,depleted field,1999,0
+NM,depleted field,2000,0
+NM,depleted field,2001,0
+NM,depleted field,2002,4293970.1218406
+NM,depleted field,2007,0
+NM,depleted field,2012,3693794
+NM,depleted field,2017,0
+NM,salt cavern,1999,0
+NM,salt cavern,2000,0
+NM,salt cavern,2001,0
+NM,salt cavern,2002,0
+NM,salt cavern,2007,0
+NM,salt cavern,2012,0
+NM,salt cavern,2017,0
+NY,aquifer,1999,0
+NY,aquifer,2000,0
+NY,aquifer,2001,0
+NY,aquifer,2002,0
+NY,aquifer,2007,0
+NY,aquifer,2012,0
+NY,aquifer,2017,0
+NY,depleted field,1999,0
+NY,depleted field,2000,0
+NY,depleted field,2001,0
+NY,depleted field,2002,0
+NY,depleted field,2007,6468440.41595601
+NY,depleted field,2012,3738385
+NY,depleted field,2017,0
+NY,salt cavern,1999,0
+NY,salt cavern,2000,0
+NY,salt cavern,2001,0
+NY,salt cavern,2002,0
+NY,salt cavern,2007,0
+NY,salt cavern,2012,1503650
+NY,salt cavern,2017,0
+OH,aquifer,1999,0
+OH,aquifer,2000,0
+OH,aquifer,2001,0
+OH,aquifer,2002,0
+OH,aquifer,2007,0
+OH,aquifer,2012,0
+OH,aquifer,2017,0
+OH,depleted field,1999,0
+OH,depleted field,2000,730478.100047976
+OH,depleted field,2001,0
+OH,depleted field,2002,1623031.028543
+OH,depleted field,2007,33144882.550654
+OH,depleted field,2012,0
+OH,depleted field,2017,0
+OH,salt cavern,1999,0
+OH,salt cavern,2000,0
+OH,salt cavern,2001,0
+OH,salt cavern,2002,0
+OH,salt cavern,2007,0
+OH,salt cavern,2012,0
+OH,salt cavern,2017,0
+OK,aquifer,1999,0
+OK,aquifer,2000,0
+OK,aquifer,2001,0
+OK,aquifer,2002,0
+OK,aquifer,2007,0
+OK,aquifer,2012,0
+OK,aquifer,2017,0
+OK,depleted field,1999,0
+OK,depleted field,2000,9132941.437637
+OK,depleted field,2001,0
+OK,depleted field,2002,6035183.41016701
+OK,depleted field,2007,24548626.844613
+OK,depleted field,2012,2623610
+OK,depleted field,2017,3207441
+OK,salt cavern,1999,0
+OK,salt cavern,2000,0
+OK,salt cavern,2001,0
+OK,salt cavern,2002,0
+OK,salt cavern,2007,0
+OK,salt cavern,2012,0
+OK,salt cavern,2017,0
+OR,aquifer,1999,0
+OR,aquifer,2000,0
+OR,aquifer,2001,0
+OR,aquifer,2002,0
+OR,aquifer,2007,0
+OR,aquifer,2012,0
+OR,aquifer,2017,0
+OR,depleted field,1999,0
+OR,depleted field,2000,0
+OR,depleted field,2001,0
+OR,depleted field,2002,257184.552226301
+OR,depleted field,2007,593025.860398699
+OR,depleted field,2012,440725
+OR,depleted field,2017,0
+OR,salt cavern,1999,0
+OR,salt cavern,2000,0
+OR,salt cavern,2001,0
+OR,salt cavern,2002,0
+OR,salt cavern,2007,0
+OR,salt cavern,2012,0
+OR,salt cavern,2017,0
+PA,aquifer,1999,0
+PA,aquifer,2000,0
+PA,aquifer,2001,0
+PA,aquifer,2002,0
+PA,aquifer,2007,0
+PA,aquifer,2012,4148
+PA,aquifer,2017,0
+PA,depleted field,1999,0
+PA,depleted field,2000,188476.343430996
+PA,depleted field,2001,0
+PA,depleted field,2002,1791688.69681102
+PA,depleted field,2007,7267870.74487001
+PA,depleted field,2012,8102081
+PA,depleted field,2017,62220
+PA,salt cavern,1999,0
+PA,salt cavern,2000,0
+PA,salt cavern,2001,0
+PA,salt cavern,2002,0
+PA,salt cavern,2007,0
+PA,salt cavern,2012,0
+PA,salt cavern,2017,0
+TN,aquifer,1999,0
+TN,aquifer,2000,0
+TN,aquifer,2001,0
+TN,aquifer,2002,0
+TN,aquifer,2007,0
+TN,aquifer,2012,0
+TN,aquifer,2017,0
+TN,depleted field,1999,0
+TN,depleted field,2000,0
+TN,depleted field,2001,0
+TN,depleted field,2002,0
+TN,depleted field,2007,41480
+TN,depleted field,2012,0
+TN,depleted field,2017,0
+TN,salt cavern,1999,0
+TN,salt cavern,2000,0
+TN,salt cavern,2001,0
+TN,salt cavern,2002,0
+TN,salt cavern,2007,0
+TN,salt cavern,2012,0
+TN,salt cavern,2017,0
+TX,aquifer,1999,0
+TX,aquifer,2000,0
+TX,aquifer,2001,0
+TX,aquifer,2002,0
+TX,aquifer,2007,0
+TX,aquifer,2012,0
+TX,aquifer,2017,0
+TX,depleted field,1999,0
+TX,depleted field,2000,0
+TX,depleted field,2001,0
+TX,depleted field,2002,37824426.979285
+TX,depleted field,2007,1575203
+TX,depleted field,2012,24283429
+TX,depleted field,2017,1037000
+TX,salt cavern,1999,0
+TX,salt cavern,2000,1105805.7630568
+TX,salt cavern,2001,0
+TX,salt cavern,2002,3312618.3800934
+TX,salt cavern,2007,918648.3090491
+TX,salt cavern,2012,773602
+TX,salt cavern,2017,5976231
+UT,aquifer,1999,0
+UT,aquifer,2000,0
+UT,aquifer,2001,0
+UT,aquifer,2002,0
+UT,aquifer,2007,1886288.07913669
+UT,aquifer,2012,0
+UT,aquifer,2017,0
+UT,depleted field,1999,0
+UT,depleted field,2000,0
+UT,depleted field,2001,0
+UT,depleted field,2002,0
+UT,depleted field,2007,1543206.1148086
+UT,depleted field,2012,0
+UT,depleted field,2017,0
+UT,salt cavern,1999,0
+UT,salt cavern,2000,0
+UT,salt cavern,2001,0
+UT,salt cavern,2002,0
+UT,salt cavern,2007,0
+UT,salt cavern,2012,0
+UT,salt cavern,2017,0
+VA,aquifer,1999,0
+VA,aquifer,2000,0
+VA,aquifer,2001,0
+VA,aquifer,2002,0
+VA,aquifer,2007,0
+VA,aquifer,2012,0
+VA,aquifer,2017,0
+VA,depleted field,1999,0
+VA,depleted field,2000,0
+VA,depleted field,2001,865360.787878792
+VA,depleted field,2002,256484.66666667
+VA,depleted field,2007,51472.9090909101
+VA,depleted field,2012,0
+VA,depleted field,2017,0
+VA,salt cavern,1999,0
+VA,salt cavern,2000,19736.747121851
+VA,salt cavern,2001,5263.13256582699
+VA,salt cavern,2002,0
+VA,salt cavern,2007,9868.37356093014
+VA,salt cavern,2012,0
+VA,salt cavern,2017,487390
+WA,aquifer,1999,0
+WA,aquifer,2000,0
+WA,aquifer,2001,0
+WA,aquifer,2002,0
+WA,aquifer,2007,4731797.8336887
+WA,aquifer,2012,0
+WA,aquifer,2017,0
+WA,depleted field,1999,0
+WA,depleted field,2000,0
+WA,depleted field,2001,0
+WA,depleted field,2002,0
+WA,depleted field,2007,0
+WA,depleted field,2012,0
+WA,depleted field,2017,0
+WV,aquifer,1999,0
+WV,aquifer,2000,0
+WV,aquifer,2001,0
+WV,aquifer,2002,0
+WV,aquifer,2007,0
+WV,aquifer,2012,0
+WV,aquifer,2017,0
+WV,depleted field,1999,0
+WV,depleted field,2000,16790.3059519529
+WV,depleted field,2001,123372019.95268
+WV,depleted field,2002,1856378.201814
+WV,depleted field,2007,18509729.032253
+WV,depleted field,2012,3151443
+WV,depleted field,2017,251991
+WV,salt cavern,1999,0
+WV,salt cavern,2000,0
+WV,salt cavern,2001,0
+WV,salt cavern,2002,0
+WV,salt cavern,2007,0
+WV,salt cavern,2012,0
+WV,salt cavern,2017,0
+WY,aquifer,1999,0
+WY,aquifer,2000,0
+WY,aquifer,2001,0
+WY,aquifer,2002,0
+WY,aquifer,2007,432253.4601044
+WY,aquifer,2012,0
+WY,aquifer,2017,0
+WY,depleted field,1999,0
+WY,depleted field,2000,0
+WY,depleted field,2001,0
+WY,depleted field,2002,480552.243370004
+WY,depleted field,2007,9513776.4093109
+WY,depleted field,2012,0
+WY,depleted field,2017,16709181
+WY,salt cavern,1999,0
+WY,salt cavern,2000,0
+WY,salt cavern,2001,0
+WY,salt cavern,2002,0
+WY,salt cavern,2007,0
+WY,salt cavern,2012,0
+WY,salt cavern,2017,0
